@@ -1,0 +1,14 @@
+{
+  "name": "@blakeasm/jsonview",
+  "version": "0.0.2",
+  "description": "Json viewer component for React",
+  "main": "index.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Blake Smith",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "react": "^18.3.1"
+  }
+}
