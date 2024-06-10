@@ -20,12 +20,9 @@ function YourJsonViewerComponent() {
   }
 
   return (
-    <JsonView data={data} depth=1></JsonView>
+    <JsonView data={data} />
   )
 }
-
-export default App
-
 ```
 
 ![example](./screenshots/example-depth-1.png)

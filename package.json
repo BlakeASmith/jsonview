@@ -1,6 +1,6 @@
 {
   "name": "@blakeasm/jsonview",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Json viewer component for React",
   "main": "index.jsx",
   "scripts": {
