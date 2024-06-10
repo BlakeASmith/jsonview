@@ -29,3 +29,5 @@ export default App
 ```
 
 ![example](./screenshots/example-depth-1.png)
+![example-expanded](./screenshots/example-expanded.png)
+![example-fully-collapsed](./screenshots/example-collapsed.png)
